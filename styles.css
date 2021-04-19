@@ -1,0 +1,70 @@
+body{
+background-color: rgb(248, 240, 240);
+}
+
+.card-img-top1{
+    border-radius: 50px 50px 0px 0px;
+    background: #3E5151;
+    background: -webkit-linear-gradient(to right, #DECBA4, #3E5151);
+    background: linear-gradient(to right, #DECBA4, #3E5151);
+
+}
+.card-body1 {
+    background: #3E5151;
+    background: -webkit-linear-gradient(to right, #DECBA4, #3E5151);
+    background: linear-gradient(to right, #DECBA4, #3E5151);
+
+}
+.card-img-top2{
+    border-radius: 50px 50px 0px 0px;
+    background: #fffc00;
+    background: -webkit-linear-gradient(to right, #ffffff, #fffc00);
+    background: linear-gradient(to right, #ffffff, #fffc00);
+
+}
+.card-body2{
+    background: #fffc00;
+        background: -webkit-linear-gradient(to right, #ffffff, #fffc00);
+        background: linear-gradient(to right, #ffffff, #fffc00);
+    
+}
+.card-img-top3{
+    border-radius: 50px 50px 0px 0px;
+    background: #CCCCB2;
+    background: -webkit-linear-gradient(to right, #757519, #CCCCB2);
+    background: linear-gradient(to right, #757519, #CCCCB2);
+
+}
+.card-body3{
+    background: #CCCCB2;
+        background: -webkit-linear-gradient(to right, #757519, #CCCCB2);
+        background: linear-gradient(to right, #757519, #CCCCB2);
+    
+}
+
+footer{
+    background-color: #1c1e21;
+    margin-top: 15px;
+}
+
+.linea{
+    background-color: #CCCCB2;
+    width: 80%;
+    height: 2px;
+    margin: auto;
+}
+
+.iconos{
+
+    display: flex;
+    width: 100%;
+    margin: 15px auto;
+    justify-content: center;
+}
+
+.iconos img{
+    width: 24px;
+    height: 24px;
+    margin: 5px;
+
+}
